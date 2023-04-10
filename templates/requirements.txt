@@ -1,0 +1,4 @@
+robotframework>=6.0.0,<=6.0.2
+robotframework-requests==0.9.4
+robotframework-tidy>=4.1.0
+robotframework-robocop>=3.0.0
